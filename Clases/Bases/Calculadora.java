@@ -1,5 +1,7 @@
+//importamos lo necesario
 import java.util.Scanner;
 
+//Creamos nuestras clases con las que trabajaremos
 public class Calculadora {
     //    Declaracion de funciones
     public static int suma(int a, int b) {

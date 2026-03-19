@@ -1,5 +1,7 @@
 public class Empleado {
 
+    //New es una paabra clave en Java que se usa para crear (instanciar) un objeto o clase.
+    //con eso reservamos memoria y llama al constructor de la clase para inicializarlo.
     private String nombre;
     private String apellido;
     private float sueldo;

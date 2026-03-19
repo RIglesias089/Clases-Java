@@ -2,6 +2,11 @@ import java.util.Scanner;
 
 public class Empleado{
 
+    //Un constructor es un metodo que inicializa un objeto cuando se crea
+    //Esto es lo primero que se ejecuta al iniciarlo, su funcion basicamente es
+    //inicializar los atributos de las clases y declarar publico para poder crear objetos
+    //desde cualquier parter de el programa
+
     //constructor parametrizado
     private String nombre;
     private String apellido;
