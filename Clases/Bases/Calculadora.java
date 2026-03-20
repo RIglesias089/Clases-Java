@@ -1,4 +1,4 @@
-//importamos lo necesario
+//importamos libreria scanner para poder solicitar los datos
 import java.util.Scanner;
 
 //Creamos nuestras clases con las que trabajaremos
@@ -56,7 +56,16 @@ public class Calculadora {
 
         System.out.println("Seleccione una opcion: \n" + "1.Suma\n 2.Resta\n 3. Multiplica\n 4.Dividir");
         opcion = entrada.nextInt();
-        // en java existen dos tipos de switch, el de toda la vida (no lo hago porque ya me lo puedo xd
+        // en java existen dos tipos de switch, el de toda la vida
+        // Switch(variable){
+        //      case valor:
+        //          codigo
+        //          break;
+        //      case valor2:
+        //          codigo
+        //          break;
+        //      default:
+        //          codigo si no coincide nada}
         //y uno moderno
 
 //        switch(opcion){
