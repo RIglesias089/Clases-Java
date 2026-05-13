@@ -22,7 +22,12 @@ public class override {
         }
 
     }
-    //Aunque salga ocn error no significa que lo este 
-
+    //Aunque salga ocn error no significa que lo este
+/*Es importante termina con aclarar que:
+* Sobrecarga(Overloading):
+* mismo nombre el metodo, diferente tipo de parametros
+*
+* Sobrescritura (Override):
+* Mismo nombre, Mismo parametro, pero en clase hija sobrescribe y hace su propia version.*/
 
 }
