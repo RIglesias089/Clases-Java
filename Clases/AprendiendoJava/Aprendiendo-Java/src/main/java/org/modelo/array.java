@@ -24,5 +24,30 @@ public class array {
     *
     * */
 
+    //Arrays unidimensionales
+    /*Es es un arreglo el cual guarda los datos en una sola linea, basicamente es una sola fila
+    * una sola dimension, una sola fila, un indice para acceder y pubnto*/
+    int[] numeros = {10, 20, 30, 40};
+    //Arrays multidimensionales
+    /*es un array que contiene a otrs arrays o un arreglo de varias dimensiones,  normalmente usado el bidimensional
+    * o tambien llamado "matriz", este tiene varias filas */
+    int[][] matriz = {
+            {10, 20, 30},
+            {40, 50, 60},
+            {70, 80, 90}
+    };
+    //el uso de "[][]" es para indicar que es de dos dimensiones
+
+    /*Para poder recorrer arrays multimensionales usamos un for anidados, */
+    for (int fila = 0; fila < matriz.length; fila++) {
+
+        for (int columna = 0; columna < matriz[fila].length; columna++) {
+
+            System.out.println(matriz[fila][columna]);
+
+        }
+
+    }
+
 
 }
