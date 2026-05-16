@@ -2,7 +2,7 @@ package org.modelo.POO;
 
 public class clases_objetos {
 
-    
+
     //Definimos la clase persona
     class Persona{
         //planteamos los atributos que tendra dicha clase
@@ -19,10 +19,11 @@ public class clases_objetos {
 
     //Persona es el tipo de objeto, personal el nombre de la variable, new crea el objeto, persona() es el constructor
 
+
     //Para acceder a los atributos usamos el operador de el punto.
-    persona1 = "Ricardo";
+    /*persona1 = "Ricardo";
     persona1.edad = 19
 
     //Leemos los datos
-    System.out.println(persona1.nombre);
+    System.out.println(persona1.nombre);*/
 }
