@@ -1,4 +1,4 @@
-package org.modelo;
+package org.modelo.fundamentos;
 
 public class array {
     /*Para empezar debemos saber qeu los arrays se usan mucho en programacion porqeu permiten
@@ -39,7 +39,7 @@ public class array {
     //el uso de "[][]" es para indicar que es de dos dimensiones
 
     /*Para poder recorrer arrays multimensionales usamos un for anidados, */
-    for (int fila = 0; fila < matriz.length; fila++) {
+    /*for (int fila = 0; fila < matriz.length; fila++) {
 
         for (int columna = 0; columna < matriz[fila].length; columna++) {
 
@@ -47,7 +47,7 @@ public class array {
 
         }
 
-    }
+    }*/
 
 
 }

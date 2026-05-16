@@ -1,4 +1,4 @@
-package org.modelo;
+package org.modelo.fundamentos;
 
 public class swich {
     /*Aca veremos como funciona el swich en Java, este es usado sobretodo

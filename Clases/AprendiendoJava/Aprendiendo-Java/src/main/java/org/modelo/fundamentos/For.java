@@ -1,4 +1,4 @@
-package org.modelo;
+package org.modelo.fundamentos;
 
 public class For {
     /*El ciclo for es muy importante ya que con este podemos repetir el codigo

@@ -1,4 +1,4 @@
-package org.modelo;
+package org.modelo.fundamentos;
 
 public class operadores_Logicos {
     /*Es importante el uso de los operadores logicos en java

@@ -1,4 +1,4 @@
-package org.modelo;
+package org.modelo.fundamentos;
 
 import java.util.ArrayList; //Este
 public class tipos_De_Datos {

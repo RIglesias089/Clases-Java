@@ -1,4 +1,4 @@
-package org.modelo;
+package org.modelo.fundamentos;
 
 public class If_else_elseif {
     /*Ahora veremos el uso de el if, else, else if, para poder hacer

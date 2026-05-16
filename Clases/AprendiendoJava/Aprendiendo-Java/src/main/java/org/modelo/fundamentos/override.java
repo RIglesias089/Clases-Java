@@ -1,4 +1,4 @@
-package org.modelo;
+package org.modelo.fundamentos;
 
 public class override {
     /*Los override son metodos de sobrescritura para los emtodos, remplaza un metodo heredado de otro
